@@ -1,10 +1,10 @@
 # Linear-Classification
 Learn Logistic Regression
 
-##Learning Objectives
+## Learning Objectives
 
 
-Compare and contrast the characteristics of different Classification methods.
+*Compare and contrast the characteristics of different Classification methods.
 Explain the capabilities of logistic regression.
 Compare and contrast linear regression with logistic regression.
 Explain how to change the parameters of a logistic regression model.
